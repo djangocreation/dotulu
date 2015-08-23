@@ -1,1 +1,1 @@
-../README.rst
+https://github.com/djangocreation/dotulu
