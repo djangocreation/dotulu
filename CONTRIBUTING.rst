@@ -19,6 +19,7 @@ Concernant la communauté Dotulu, nous avons mis en place les outils suivants :
 * une adresse email dédié pour communiquer : contact@dotulu.org
 
 Il nous reste à mettre en place : 
+
 * une mailing-list
 * un chan IRC 
 
